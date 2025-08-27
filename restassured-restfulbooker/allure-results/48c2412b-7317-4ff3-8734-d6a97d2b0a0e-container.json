@@ -1,0 +1,1 @@
+{"uuid":"48c2412b-7317-4ff3-8734-d6a97d2b0a0e","name":"com.example.restbooker.tests.HealthCheckTest","children":["f9eafa14-d76d-45a0-8e74-be7bc69dbde0"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1756314945654,"stop":1756314946078}],"afters":[],"start":1756314945599,"stop":1756314953749}

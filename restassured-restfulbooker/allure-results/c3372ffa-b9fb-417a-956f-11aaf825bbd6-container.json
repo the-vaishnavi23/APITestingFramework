@@ -1,0 +1,1 @@
+{"uuid":"c3372ffa-b9fb-417a-956f-11aaf825bbd6","name":"com.example.restbooker.tests.AuthNegativeTest","children":["01cbd8c5-50c8-4848-a477-cc9190ff39ec"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1756314506112,"stop":1756314506112}],"afters":[],"start":1756314499783,"stop":1756314507892}
